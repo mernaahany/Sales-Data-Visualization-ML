@@ -1,7 +1,5 @@
-# Sales-Data-Visualization-ML
-Sales data analysis and prediction using visualizations and machine learning models (SVR, Random Forest, XGBoost, KNN).  Exploratory Data Analysis (EDA) and ML-based sales forecasting with multiple regression models.  Machine Learning project for sales prediction with data visualization and performance evaluation.
-
-# Sales Data Visualization & Machine Learning 📊🤖
+# Sales Data Visualization & Machine Learning
+Sales data analysis and prediction using visualizations and machine learning models (SVR, Random Forest, XGBoost, KNN).  Exploratory Data Analysis (EDA) and ML-based sales forecasting with multiple regression models.  Machine Learning project for sales prediction with data visualization and performance evaluation. 
 
 This repository contains a Colab notebook for **sales data analysis, visualization, and forecasting** using various machine learning models.  
 The project aims to explore sales patterns through **EDA & visualizations** and build predictive models to forecast sales.
